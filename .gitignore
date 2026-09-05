@@ -1,0 +1,23 @@
+# Maven / Java build files
+**/target/
+
+# Eclipse
+**/.classpath
+**/.project
+**/.settings/
+
+# IntelliJ
+.idea/
+*.iml
+
+# React / Node
+**/node_modules/
+**/build/
+
+# Environment / secrets
+.env
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
