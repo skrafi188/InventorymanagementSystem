@@ -11,3 +11,4 @@ public class HealthController {
         return "Inventory Service is UP";
     }
 }
+
